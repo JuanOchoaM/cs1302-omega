@@ -6,4 +6,4 @@ JFX="-Dprism.order=sw" # specify the software renderer
 set -ex
 mvn $OPTS clean
 mvn $OPTS compile
-mvn $OPTS exec:java $JFX $@
+mvn $OPTS exec:java $JFX -Dexec.mainClass="cs1302.omega.MainSnake"
