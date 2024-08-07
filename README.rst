@@ -1,6 +1,6 @@
 # Snake Arcade Game
 
-This repository contains a simple Snake arcade game implemented in Java using JavaFX. The game features a snake that the player can control using the arrow keys to eat food, grow in length, and avoid running into walls or itself. The game ends when the snake dies, and the player is prompted to play again.
+A simple Snake arcade game implemented in Java using JavaFX. The game features a snake that the player can control using the arrow keys to eat food, grow in length, and avoid running into walls or itself. The game ends when the snake dies, and the player is prompted to play again.
 
 ## Features
 
